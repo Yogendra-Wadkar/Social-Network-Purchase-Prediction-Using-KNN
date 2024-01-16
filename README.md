@@ -16,6 +16,9 @@ Welcome to the Social Network Purchase Prediction project, where we employ the K
 
 5. **Model Evaluation:** Comprehensive evaluation of the models, including accuracy assessment, the application of the elbow method for optimal k value determination, and visualization of results.
 
+## Visualizing the Training set result:
+![newplot (1)](https://github.com/Yogendra-Wadkar/Telecom-Customer-Churn-Prediction-Using-Machine-Learning/assets/134367735/c6483926-4b06-4f83-97d6-92b20a023463)
+
 ## Repository Structure
 
 📁 **Data:** Holds the dataset used for training and testing.
