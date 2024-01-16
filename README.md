@@ -4,6 +4,9 @@
 
 Welcome to the Social Network Purchase Prediction project, where we employ the K-nearest neighbors (KNN) algorithm to predict user purchases in a social network. This project involves comprehensive data analysis, exploratory data analysis (EDA), feature engineering, and model training.
 
+![k-nearest-neighbor-algorithm-for-machine-learning2](https://github.com/Yogendra-Wadkar/Telecom-Customer-Churn-Prediction-Using-Machine-Learning/assets/134367735/0b340999-0d57-4b94-9fd8-4fb7df0b89db)
+
+
 ## Key Features
 
 1. **KNN Algorithm:** The project leverages the KNN algorithm to predict user purchases based on demographic features such as gender, age, and estimated salary.
