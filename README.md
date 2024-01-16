@@ -18,10 +18,10 @@ Welcome to the Social Network Purchase Prediction project, where we employ the K
 
 ## Repository Structure
 
-📁 **data/:** Holds the dataset used for training and testing.
+📁 **Data:** Holds the dataset used for training and testing.
 
-📁 **notebooks/:** Explore the Jupyter Notebook (`Social_Network_Purchase_Prediction.ipynb`) for a step-by-step walkthrough of the project.
+📁 **Jupyter Notebooks:** Explore the Jupyter Notebook (`Social_Network_Purchase_Prediction.ipynb`) for a step-by-step walkthrough of the project.
 
 📁 **README.md:** Essential information about the project, including an overview, dataset details, and project pipeline.
 
-📁 **Project_Description.md:** A detailed description of the project, covering libraries used, problem statement, data gathering, EDA, feature engineering, model training, evaluation, and conclusion.
+📁 **Project Description.md**  A detailed description of the project, covering libraries used, problem statement, data gathering, EDA, feature engineering, model training, evaluation, and conclusion.
